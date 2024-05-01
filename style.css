@@ -6,12 +6,17 @@
 }
 @font-face {
   font-family: Domain;
-  src: url(domain.ttf);
+  src: url(domain.woff2);
+}
+
+@font-face {
+    font-family: canopee;
+    src: url(Canopee.woff2);
 }
 
 @font-face {
   font-family: edit;
-  src: url(Edit.ttf);
+  src: url(Edit.woff2);
 }
 
 html,
